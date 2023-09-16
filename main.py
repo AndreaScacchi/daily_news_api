@@ -1,6 +1,7 @@
 # imports
 import requests
 import config
+from send_email import send_email
 
 # api key
 api_key = config.api_key
